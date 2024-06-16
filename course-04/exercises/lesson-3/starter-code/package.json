@@ -16,9 +16,9 @@
     "serverless-aws-documentation": "^1.1.0",
     "serverless-reqvalidator-plugin": "^1.0.3",
     "serverless-webpack": "^5.2.0",
-    "ts-loader": "^5.3.3",
+    "ts-loader": "^9.5.1",
     "typescript": "^3.4.1",
-    "webpack": "^4.29.6"
+    "webpack": "^5.92.0"
   },
   "author": "Ivan Mushketyk",
   "license": "MIT"
